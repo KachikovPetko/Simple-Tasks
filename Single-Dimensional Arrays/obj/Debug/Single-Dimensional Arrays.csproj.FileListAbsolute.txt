@@ -1,0 +1,8 @@
+C:\Users\pp\Desktop\Single-Dimensional Arrays\bin\Debug\Single-Dimensional Arrays.exe.config
+C:\Users\pp\Desktop\Single-Dimensional Arrays\bin\Debug\Single-Dimensional Arrays.exe
+C:\Users\pp\Desktop\Single-Dimensional Arrays\bin\Debug\Single-Dimensional Arrays.pdb
+C:\Users\pp\Desktop\Single-Dimensional Arrays\obj\Debug\Single-Dimensional Arrays.csproj.AssemblyReference.cache
+C:\Users\pp\Desktop\Single-Dimensional Arrays\obj\Debug\Single-Dimensional Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\pp\Desktop\Single-Dimensional Arrays\obj\Debug\Single-Dimensional Arrays.csproj.CoreCompileInputs.cache
+C:\Users\pp\Desktop\Single-Dimensional Arrays\obj\Debug\Single-Dimensional Arrays.exe
+C:\Users\pp\Desktop\Single-Dimensional Arrays\obj\Debug\Single-Dimensional Arrays.pdb
