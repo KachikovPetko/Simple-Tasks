@@ -1,0 +1,11 @@
+C:\Users\pp\Desktop\Figures\bin\Debug\Figures.exe.config
+C:\Users\pp\Desktop\Figures\bin\Debug\Figures.exe
+C:\Users\pp\Desktop\Figures\bin\Debug\Figures.pdb
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.csproj.SuggestedBindingRedirects.cache
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.Form1.resources
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.Properties.Resources.resources
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.csproj.GenerateResource.cache
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.exe
+C:\Users\pp\Desktop\Figures\obj\Debug\Figures.pdb
